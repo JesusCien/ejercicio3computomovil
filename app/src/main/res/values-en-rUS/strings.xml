@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto_nombre">The Student is:</string>
+    <string name="texto_apellido">and his surname is:</string>
+    <string name="letrero_princ">--Welcome to the list view of your courses--</string>
+    <string name="letrero_id">Id:</string>
+    <string name="letrero_sede">Place::</string>
+    <string name="letrero_fechainic">Start Date :</string>
+    <string name="letrero_fechafin">End Date:</string>
+    <string name="letrero_nombre">Name of course:</string>
+    <string name="app_name">Exercice 3</string>
+    <string name="boton_vista">List View</string>+
+    <string name="letrero_descripcion">Description:</string>
+</resources>

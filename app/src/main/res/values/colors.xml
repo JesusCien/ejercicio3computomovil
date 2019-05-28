@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="miColorPreferido">#000000</color>
+    <color name="miColormain1">#458ECE</color>
+    <color name="miColormain2">#B5DD8B</color>
+    <color name="miColormain3">#B5DD8B</color>
+</resources>

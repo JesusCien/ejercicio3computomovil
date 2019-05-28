@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto_nombre">"El Alumno es: "</string>
+    <string name="texto_apellido">" y su apellido es: "</string>
+    <string name="letrero_princ">--Bienvenid@s a Tu Lista de tus cursos--</string>
+    <string name="boton_vista">Ver lista</string>
+    <string name="letrero_id">Id:</string>
+    <string name="letrero_sede">Sede:</string>
+    <string name="letrero_nombre">Nombre del curso:</string>
+    <string name="letrero_fechainic">Fecha Inicio:</string>
+    <string name="app_name">Ejercicio 3</string>
+    <string name="letrero_fechafin">Fecha Fin:</string>
+    <string name="letrero_descripcion">Descripcion:</string>
+</resources>
